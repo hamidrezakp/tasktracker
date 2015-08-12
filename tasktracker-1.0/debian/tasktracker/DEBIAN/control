@@ -1,0 +1,10 @@
+Package: tasktracker
+Version: 1.0-0ubuntu1
+Architecture: amd64
+Maintainer: Hamid reza kaveh pishghadam <hamidsoft12@gmail.com>
+Installed-Size: 571
+Depends: libqt5gui5, libqt5widgets5 (>= 5.0.2), libqt5core5a (>= 5.0.2), libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Section: utils
+Priority: optional
+Homepage: https://github.com/hamidrezakp/tasktracker
+Description: Advanced task manager using crontab.

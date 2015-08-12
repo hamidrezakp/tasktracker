@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 12 Aug 2015 10:15:05 +0530
+Source: tasktracker
+Binary: tasktracker
+Architecture: source amd64
+Version: 1.0-0ubuntu1
+Distribution: natty
+Urgency: low
+Maintainer: Hamid reza kaveh pishghadam <hamidsoft12@gmail.com>
+Changed-By: Hamid reza kaveh pishghadam <hamidsoft12@gmail.com>
+Description: 
+ tasktracker - Advanced task manager using crontab.
+Changes: 
+ tasktracker (1.0-0ubuntu1) natty; urgency=low
+ .
+   *Initial Release.
+        added support for every min/hour/dow/month/dom and ...
+Checksums-Sha1: 
+ edd9073e64ee9dbdf61d255fad479b8d80594e6a 928 tasktracker_1.0-0ubuntu1.dsc
+ 528905c45112356f688117269f1eb872421c5337 45806 tasktracker_1.0.orig.tar.gz
+ cf2c0f1567f85095c96f1957d4f86c6189d4b7ec 1513 tasktracker_1.0-0ubuntu1.debian.tar.gz
+ 52f63e9154f3741d73cf32cf6390a4ff39a9d490 60224 tasktracker_1.0-0ubuntu1_amd64.deb
+Checksums-Sha256: 
+ 4334fc296061b284973e9396529c91df65da7b6138668aef072920f6b89b5314 928 tasktracker_1.0-0ubuntu1.dsc
+ 0a8cea56b917a586dafad4c5b4364007f217a4820735ba59f1fba08d5334a47d 45806 tasktracker_1.0.orig.tar.gz
+ 8b9186e55cee9f994cee315272e7a05a0b0e3cb491ccbd7f127f1c8ae5dadd3a 1513 tasktracker_1.0-0ubuntu1.debian.tar.gz
+ e9f4c510c0d6a3cdae958d896beab2aed4aad65f134e8359c1e54d3c1eaa6a19 60224 tasktracker_1.0-0ubuntu1_amd64.deb
+Files: 
+ 753471623d5a418a29c02efc1c177839 928 utils optional tasktracker_1.0-0ubuntu1.dsc
+ 48e69a0da4a69e0d115477820009f9d7 45806 utils optional tasktracker_1.0.orig.tar.gz
+ c97a1d65816eb8be633ae7ff57fff47e 1513 utils optional tasktracker_1.0-0ubuntu1.debian.tar.gz
+ b3dc5fd9ec4731f02433b725c894ce9a 60224 utils optional tasktracker_1.0-0ubuntu1_amd64.deb

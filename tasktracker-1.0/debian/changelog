@@ -1,0 +1,6 @@
+tasktracker (1.0-0ubuntu1) natty; urgency=low
+
+  *Initial Release.
+       added support for every min/hour/dow/month/dom and ...
+
+ -- Hamid reza kaveh pishghadam <hamidsoft12@gmail.com>  Fri, 12 Aug 2015 10:15:05 +0530

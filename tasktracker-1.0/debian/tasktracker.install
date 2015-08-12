@@ -1,0 +1,3 @@
+bin/tasktracker usr/bin
+TaskTracker.desktop usr/share/applications
+src/tasktracker.ico usr/share/pixmaps
